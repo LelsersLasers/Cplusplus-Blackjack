@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532731787 source:c:\users\milla\documents\c++ stuff\black jack\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
